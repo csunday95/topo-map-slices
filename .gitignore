@@ -1,0 +1,5 @@
+*.sh
+out*/*
+*.lock
+data-*
+__pycache__/*
